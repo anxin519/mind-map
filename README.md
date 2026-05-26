@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/wanglin2/mind-map)](https://github.com/wanglin2/mind-map/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/wanglin2/mind-map)](https://github.com/wanglin2/mind-map/network/members)
 
-[English](./README_EN.md) | 中文
+[English](./README_EN.md) | 中 文
 
 > 中文名：思绪思维导图。一个简单&强大的 Web 思维导图库和思维导图软件。
 
